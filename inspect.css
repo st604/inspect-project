@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    font-weight: 40;
+    text-align: center;
+}
+#note{
+    text-align: center;
+}
+ input,button{
+    box-shadow: 30px;
+    border-radius: 10px;
+    border:5px;
+    border-color: antiquewhite;
+   
+
+ } 
+
+   
